@@ -1,5 +1,7 @@
 # Japanese-Numbers-Quiz
-Programmed by Matthew Unrue for his Japanese students.  Version 0.3  9/18/2017 & 9/21/2017
+Programmed by Matthew Unrue for his Japanese students.<br/>
+Version 0.3<br/>
+9/18/2017 & 9/21/2017
 
 A CLI quiz on the pronunciation and writing of numbers between 0 and 99,999,999 in Japanese.
 
