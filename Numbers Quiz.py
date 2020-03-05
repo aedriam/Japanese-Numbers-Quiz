@@ -675,7 +675,7 @@ while quizzing:
             quizzing = False
             break
         
-        # Give the pronunciation or knaji and check for the quit command.
+        # Give the pronunciation or kanji and check for the quit command.
         # Kanji
         if kanji_mode:
             kanji_text = "Kanji: " + instance_kanji + " "
